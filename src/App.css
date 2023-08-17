@@ -10,7 +10,7 @@
 .banner_container {
   height: 804px;
   margin-left: 100px;
-  width: 1340px;
+  width: 1384px;
   justify-content: space-between;
 }
 .banner_right {
@@ -138,7 +138,7 @@
 .about_box {
   height: 467px;
   justify-content: flex-start;
-  width: 1440px;
+  width: 100%;
   background: linear-gradient(
     90deg,
     rgba(30, 42, 93, 0.04) 0%,
@@ -349,7 +349,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  width: 1440px;
+  width: 100%;
 }
 .footer_logo {
   width: 161px;
