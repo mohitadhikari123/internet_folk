@@ -9,7 +9,7 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import "@fontsource/source-sans-pro";
-import Card from "./Card";
+import Card from "./Card"; 
 const options = {
   margin: 0,
   responsiveClass: true,
