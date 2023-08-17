@@ -11,7 +11,7 @@ import "owl.carousel/dist/assets/owl.theme.default.css";
 import "@fontsource/source-sans-pro";
 import Card from "./Card";  
 const options = {
-  margin: 0,
+  margin: 0, 
   responsiveClass: true,
   nav: true,
   navSpeed:200,
